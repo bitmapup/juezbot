@@ -1,7 +1,7 @@
 
 # Procesamiento de las resoluciones
 
-En este repositorio se encuentra el código pertinente a la etapa de pre-procesamiento de datos, la corresponde a la extracción del texto de las resoluciones, extracción de la información del caso y la extracción de las leyes citadas.
+En este repositorio se encuentra el código pertinente a la etapa de pre-procesamiento de datos, la cual corresponde a la extracción del texto de las resoluciones, extracción de la información del caso y la extracción de las leyes citadas.
 
 ## Comenzando 🚀
 
